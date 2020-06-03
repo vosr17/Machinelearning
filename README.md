@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/circleci/Machinelearning.svg?style=svg)](https://app.circleci.com/pipelines/github/vosr17/Machinelearning/3/workflows/7c32b1ca-1438-41eb-b49d-9fbd1813c300/jobs/3)
+[![passed](https://circleci.com/gh/circleci/Machinelearning.svg?style=svg)](https://app.circleci.com/pipelines/github/vosr17/Machinelearning/3/workflows/7c32b1ca-1438-41eb-b49d-9fbd1813c300/jobs/3)
 
 
 ## Project Overview
